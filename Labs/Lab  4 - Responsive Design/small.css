@@ -1,1 +1,11 @@
 /*Your mobile targeted css should go here*/
+
+project-title{ 
+	position: absolute; 
+	width: 100%; 
+	background: #bbb; 
+	z-index:1; 
+	height: 75px; 
+	left: 0; 
+	top:300px;
+	}
