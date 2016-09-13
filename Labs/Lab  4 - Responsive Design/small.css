@@ -1,7 +1,7 @@
 /*Your mobile targeted css should go here*/
 
 project-title{ 
-	position: absolute; 
+	position: 50%; 
 	width: 100%; 
 	background: #bbb; 
 	z-index:1; 
@@ -9,3 +9,36 @@ project-title{
 	left: 0; 
 	top:300px;
 	}
+	
+h1 {
+	font-size: 1.5em;
+	width: 50%;
+	padding: 20px;
+}
+
+nav {
+	margin-left: 25%;
+}
+
+h3 {
+	background: #03ff00
+}
+
+footer {
+	background: #00ddb0
+}
+
+p {
+    border: 5px solid red;
+}
+
+img {
+	border: 5px solid blue;
+	width: 97%
+}
+
+div {
+	background-color: powderblue;
+    width: 100%;
+    align-content: center;
+}
