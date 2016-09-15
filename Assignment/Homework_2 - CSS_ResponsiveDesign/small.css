@@ -15,6 +15,10 @@
 body {
 	margin: 20px 0; font-size: 18px;
 } 
+
+.pok_descript {
+    display:none;
+}
 /*
 header a {
 	padding: 10px;
